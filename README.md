@@ -1,3 +1,4 @@
+![](https://github.com/vishalvs7/vishalvs7/blob/main/Upto%20Something%20Crazy.png)
 <h1 align="center">Hi 👋, I'm Vishal Shukla</h1>
 <h3 align="center">A passionate full stack developer and Data Analytic Geek from India</h3>
 
