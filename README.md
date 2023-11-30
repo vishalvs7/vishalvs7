@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Shukla</h1>
 <h3 align="center">A passionate full stack developer and Data Analytic Geek from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/5a/84/64/5a8464c34d7c40c3c349ea4f2ebd902c.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalvs7&label=Profile%20views&color=0e75b6&style=flat" alt="vishalvs7" /> </p>
 
