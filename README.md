@@ -12,11 +12,8 @@
 
 - 🤝 I’m looking for help with **a automation project**
 
-- 👨‍💻 All of my projects are available at [Vishalshukla.me](Vishalshukla.me)
 
-- 📝 I regularly write articles on [vishalshukla.me/blogs](vishalshukla.me/blogs)
-
-- 💬 Ask me about **React, NextJS, MongoDB and Python**
+- 💬 Ask me about **Full Stack Web Development and Data Analyst **
 
 - 📫 How to reach me **Vs7361455@gmail.com**
 
