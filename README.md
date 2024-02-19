@@ -6,16 +6,17 @@
 
 - 🔭 I’m currently working on **PetMe - All in one pets Solutions**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Svelte**
 
 - 👯 I’m looking to collaborate on **Remote Full stack Project**
 
 - 🤝 I’m looking for help with **a automation project**
+- visit my portfolio =  vishalvs7.vercel.app
 
 
 - 💬 Ask me about **Full Stack Web Development and Data Analyst **
 
-- 📫 How to reach me **Vs7361455@gmail.com**
+- 📫 How to reach me **Vishalhaspowers@outlook.com**
 
 - ⚡ Fun fact **I can live without coding but not without coffee**
 
